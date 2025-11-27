@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:overworld"
+    }
+  },
+  "min_y": -64,
+  "height": 512,
+  "logical_height": 512
+}
